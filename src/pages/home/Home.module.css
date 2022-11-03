@@ -1,0 +1,21 @@
+.header {
+    text-align: center;
+}
+
+.container {
+    width: 50vw;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.geo:hover {
+    fill: #ff4438;
+    outline: none;
+}
+
+.icon {
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+}

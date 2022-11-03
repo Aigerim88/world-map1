@@ -1,0 +1,17 @@
+.countries {
+    width: 70%;
+    margin: 0 auto;
+}
+
+
+.title {
+    width: 150px;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: start;
+}
+
+.row_item {
+    width: 150px;
+    font-size: 18px;
+}
